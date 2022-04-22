@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">customNavigationView</string>
+    <string name="mapbox_access_token">MAPBOX_PUBLIC_TOKEN</string>
+</resources>
